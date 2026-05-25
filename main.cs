@@ -11,6 +11,7 @@ public class Plugin : BaseUnityPlugin
 	public const string ModGUID = "zopthemop.zoomoutmore";
 	public const string ModName = "Zoom Out More";
 	public const string ModVersion = "1.0.0";
+	public const string ModDescription = "Allows you to zoom out further";
 
     private void Awake()
     {
